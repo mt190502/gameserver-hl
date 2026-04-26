@@ -8,7 +8,7 @@ ARG metamod_version=1.3.0.149
 ARG reapi_version=5.24.0.300
 ARG regamedll_version=5.26.0.668
 ARG rehlds_version=3.13.0.788
-ARG reunion_version=0.2.0.13
+ARG reunion_version=0.2.0.25
 ARG redeathmatch_version=1.0.0-b11
 
 #~ URLs
